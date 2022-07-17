@@ -54,4 +54,4 @@ finally, To send emails you would have to enter the desired email message detail
 
 ## Results of sent messages
  This is a screenshot of the message confirmation i got when I sent a message titled Nodemailer Project
- <img scr="">
+ "![EMAIL Received](https://user-images.githubusercontent.com/19577206/179416375-488b0169-9da5-41a3-86ba-1c3eb271d670.JPG)"

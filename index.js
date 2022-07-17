@@ -26,7 +26,7 @@ let transporter = nodemailer.createTransport({
 // send mail with defined transport object
 let mailOptions = {
     from: "victoroisa8@gmail.com",  // list of sender
-    to:"victoroisa8@gmail.com , Oisavictor@gmail.com",  // list of receivers
+    to:"victoroisa8@gmail.com , XXX@gmail.com",  // list of receivers
     subject: "Nodemailer Project", // Subject line
     text: "I am Testing or sending a dummy email from my Node app using nodemailer" // plain text body
     // html: "<b>Hello world?</b>", // html body
